@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rnuravtsev
-- 👀 I’m interested in Frontend development (React)
+- 👨‍💻 I’m Frontend developer (React)
 - 📫 How to reach me @rnuravtsev in <3 telegram
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&pause=1000&width=435&lines=Prisoner+of+web)](https://git.io/typing-svg)
